@@ -1,0 +1,238 @@
+name of display: :0
+display: :0  screen: 0
+direct rendering: Yes
+server glx vendor string: SGI
+server glx version string: 1.4
+server glx extensions:
+    GLX_ARB_multisample
+    GLX_EXT_import_context
+    GLX_EXT_texture_from_pixmap
+    GLX_EXT_visual_info
+    GLX_EXT_visual_rating
+    GLX_MESA_copy_sub_buffer
+    GLX_OML_swap_method
+    GLX_SGI_swap_control
+    GLX_SGIS_multisample
+    GLX_SGIX_fbconfig
+    GLX_SGIX_pbuffer
+    GLX_SGIX_visual_select_group
+    GLX_INTEL_swap_event
+client glx vendor string: Mesa Project and SGI
+client glx version string: 1.4
+client glx extensions:
+    GLX_ARB_create_context
+    GLX_ARB_create_context_profile
+    GLX_ARB_get_proc_address
+    GLX_ARB_multisample
+    GLX_EXT_import_context
+    GLX_EXT_visual_info
+    GLX_EXT_visual_rating
+    GLX_EXT_framebuffer_sRGB
+    GLX_EXT_create_context_es2_profile
+    GLX_MESA_copy_sub_buffer
+    GLX_MESA_multithread_makecurrent
+    GLX_MESA_swap_control
+    GLX_OML_swap_method
+    GLX_OML_sync_control
+    GLX_SGI_make_current_read
+    GLX_SGI_swap_control
+    GLX_SGI_video_sync
+    GLX_SGIS_multisample
+    GLX_SGIX_fbconfig
+    GLX_SGIX_pbuffer
+    GLX_SGIX_visual_select_group
+    GLX_EXT_texture_from_pixmap
+    GLX_INTEL_swap_event
+GLX version: 1.4
+GLX extensions:
+    GLX_ARB_get_proc_address
+    GLX_ARB_multisample
+    GLX_EXT_import_context
+    GLX_EXT_visual_info
+    GLX_EXT_visual_rating
+    GLX_MESA_copy_sub_buffer
+    GLX_MESA_multithread_makecurrent
+    GLX_MESA_swap_control
+    GLX_OML_swap_method
+    GLX_OML_sync_control
+    GLX_SGI_make_current_read
+    GLX_SGI_swap_control
+    GLX_SGI_video_sync
+    GLX_SGIS_multisample
+    GLX_SGIX_fbconfig
+    GLX_SGIX_pbuffer
+    GLX_SGIX_visual_select_group
+    GLX_EXT_texture_from_pixmap
+OpenGL vendor string: Imagination Technologies
+OpenGL renderer string: PowerVR SGX545
+OpenGL version string: 2.1
+OpenGL shading language version string: 1.20
+OpenGL extensions:
+    GL_ARB_color_buffer_float
+    GL_ARB_depth_texture
+    GL_ARB_draw_buffers
+    GL_ARB_fragment_program
+    GL_ARB_fragment_shader
+    GL_ARB_half_float_pixel
+    GL_ARB_multisample
+    GL_ARB_multitexture
+    GL_ARB_occlusion_query
+    GL_ARB_pixel_buffer_object
+    GL_ARB_point_parameters
+    GL_ARB_point_sprite
+    GL_ARB_shader_objects
+    GL_ARB_shading_language_100
+    GL_ARB_shadow
+    GL_ARB_shadow_ambient
+    GL_ARB_texture_border_clamp
+    GL_ARB_texture_compression
+    GL_ARB_texture_cube_map
+    GL_ARB_texture_env_add
+    GL_ARB_texture_env_combine
+    GL_ARB_texture_env_crossbar
+    GL_ARB_texture_env_dot3
+    GL_ARB_texture_float
+    GL_ARB_texture_mirrored_repeat
+    GL_ARB_texture_non_power_of_two
+    GL_ARB_transpose_matrix
+    GL_ARB_vertex_buffer_object
+    GL_ARB_vertex_program
+    GL_ARB_vertex_shader
+    GL_ARB_window_pos
+    GL_EXT_abgr
+    GL_EXT_bgra
+    GL_EXT_blend_color
+    GL_EXT_blend_equation_separate
+    GL_EXT_blend_func_separate
+    GL_EXT_blend_minmax
+    GL_EXT_blend_subtract
+    GL_EXT_compiled_vertex_array
+    GL_EXT_draw_range_elements
+    GL_EXT_fog_coord
+    GL_EXT_framebuffer_blit
+    GL_EXT_framebuffer_object
+    GL_EXT_framebuffer_multisample
+    GL_EXT_multi_draw_arrays
+    GL_EXT_packed_pixels
+    GL_EXT_rescale_normal
+    GL_EXT_secondary_color
+    GL_EXT_separate_specular_color
+    GL_EXT_shadow_funcs
+    GL_EXT_stencil_two_side
+    GL_EXT_stencil_wrap
+    GL_EXT_texture3D
+    GL_EXT_texture_cube_map
+    GL_EXT_texture_edge_clamp
+    GL_EXT_texture_env_add
+    GL_EXT_texture_env_combine
+    GL_EXT_texture_env_dot3
+    GL_EXT_texture_lod_bias
+    GL_EXT_texture_object
+    GL_EXT_vertex_array
+    GL_IMG_texture_compression_pvrtc
+    GL_NV_blend_square
+    GL_NV_texgen_reflection
+    GL_SGIS_generate_mipmap
+OpenGL limits:
+    GL_MAX_ATTRIB_STACK_DEPTH = 16
+    GL_MAX_CLIENT_ATTRIB_STACK_DEPTH = 16
+    GL_MAX_CLIP_PLANES = 6
+    GL_MAX_ELEMENTS_VERTICES = 65536
+    GL_MAX_ELEMENTS_INDICES = 65536
+    GL_MAX_EVAL_ORDER = 30
+    GL_MAX_LIGHTS = 8
+    GL_MAX_LIST_NESTING = 64
+    GL_MAX_MODELVIEW_STACK_DEPTH = 32
+    GL_MAX_NAME_STACK_DEPTH = 128
+    GL_MAX_PIXEL_MAP_TABLE = 65536
+    GL_MAX_PROJECTION_STACK_DEPTH = 4
+    GL_MAX_TEXTURE_STACK_DEPTH = 10
+    GL_MAX_TEXTURE_SIZE = 4096
+    GL_MAX_3D_TEXTURE_SIZE = 256
+    GL_MAX_VIEWPORT_DIMS = 2048, 2048
+    GL_ALIASED_LINE_WIDTH_RANGE = 1, 16
+    GL_SMOOTH_LINE_WIDTH_RANGE = 1, 1
+    GL_ALIASED_POINT_SIZE_RANGE = 1, 16
+    GL_SMOOTH_POINT_SIZE_RANGE = 1, 1
+    GL_MAX_CUBE_MAP_TEXTURE_SIZE_ARB = 4096
+    GL_NUM_COMPRESSED_TEXTURE_FORMATS_ARB = 4
+    GL_MAX_TEXTURE_UNITS_ARB = 8
+    GL_MAX_TEXTURE_LOD_BIAS_EXT = 16
+    GL_MAX_DRAW_BUFFERS_ARB = 1
+    GL_VERTEX_PROGRAM_ARB:
+        GL_MAX_PROGRAM_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_NATIVE_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_TEMPORARIES_ARB = 32
+        GL_MAX_PROGRAM_NATIVE_TEMPORARIES_ARB = 32
+        GL_MAX_PROGRAM_PARAMETERS_ARB = 256
+        GL_MAX_PROGRAM_NATIVE_PARAMETERS_ARB = 256
+        GL_MAX_PROGRAM_ATTRIBS_ARB = 16
+        GL_MAX_PROGRAM_NATIVE_ATTRIBS_ARB = 16
+        GL_MAX_PROGRAM_ADDRESS_REGISTERS_ARB = 1
+        GL_MAX_PROGRAM_NATIVE_ADDRESS_REGISTERS_ARB = 1
+        GL_MAX_PROGRAM_LOCAL_PARAMETERS_ARB = 256
+        GL_MAX_PROGRAM_ENV_PARAMETERS_ARB = 256
+    GL_FRAGMENT_PROGRAM_ARB:
+        GL_MAX_PROGRAM_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_NATIVE_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_TEMPORARIES_ARB = 32
+        GL_MAX_PROGRAM_NATIVE_TEMPORARIES_ARB = 32
+        GL_MAX_PROGRAM_PARAMETERS_ARB = 256
+        GL_MAX_PROGRAM_NATIVE_PARAMETERS_ARB = 256
+        GL_MAX_PROGRAM_ATTRIBS_ARB = 32
+        GL_MAX_PROGRAM_NATIVE_ATTRIBS_ARB = 32
+        GL_MAX_PROGRAM_LOCAL_PARAMETERS_ARB = 256
+        GL_MAX_PROGRAM_ENV_PARAMETERS_ARB = 256
+        GL_MAX_PROGRAM_ALU_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_TEX_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_TEX_INDIRECTIONS_ARB = 512
+        GL_MAX_PROGRAM_NATIVE_ALU_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_NATIVE_TEX_INSTRUCTIONS_ARB = 512
+        GL_MAX_PROGRAM_NATIVE_TEX_INDIRECTIONS_ARB = 512
+    GL_VERTEX_SHADER_ARB:
+        GL_MAX_VERTEX_UNIFORM_COMPONENTS_ARB = 1024
+        GL_MAX_VARYING_FLOATS_ARB = 40
+        GL_MAX_VERTEX_ATTRIBS_ARB = 16
+        GL_MAX_TEXTURE_IMAGE_UNITS_ARB = 16
+        GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS_ARB = 16
+        GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS_ARB = 16
+        GL_MAX_TEXTURE_COORDS_ARB = 8
+    GL_FRAGMENT_SHADER_ARB:
+        GL_MAX_FRAGMENT_UNIFORM_COMPONENTS_ARB = 1024
+        GL_MAX_TEXTURE_COORDS_ARB = 8
+        GL_MAX_TEXTURE_IMAGE_UNITS_ARB = 16
+
+12 GLX Visuals
+Vis   Vis   Visual Trans  buff lev render DB ste  r   g   b   a      s  aux dep ste  accum buffer   MS   MS         
+ ID  Depth   Type  parent size el   type     reo sz  sz  sz  sz flt rgb buf th  ncl  r   g   b   a  num bufs caveats
+--------------------------------------------------------------------------------------------------------------------
+0x 21 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   0   0   None
+0x 22 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   0   0   None
+0x 6f 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   0   0   None
+0x 70 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   4   1   None
+0x 71 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   0   0   None
+0x 72 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   4   1   None
+0x 73 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   0   0   None
+0x 74 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   4   1   None
+0x 75 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   0   0   None
+0x 76 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   4   1   None
+0x 77 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   4   1   None
+0x 62 32 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   4   1   None
+
+12 GLXFBConfigs:
+Vis   Vis   Visual Trans  buff lev render DB ste  r   g   b   a      s  aux dep ste  accum buffer   MS   MS         
+ ID  Depth   Type  parent size el   type     reo sz  sz  sz  sz flt rgb buf th  ncl  r   g   b   a  num bufs caveats
+--------------------------------------------------------------------------------------------------------------------
+0x 63 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   0   0   None
+0x 64 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   4   1   None
+0x 65 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   0   0   None
+0x 66 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   4   1   None
+0x 67 24 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   0   0   None
+0x 68 32 TrueColor    0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   4   1   None
+0x 69 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   0   0   None
+0x 6a 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0    0  0   0   0   0   0   4   1   None
+0x 6b 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   0   0   None
+0x 6c 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  0   0   0   0   0   4   1   None
+0x 6d 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   0   0   None
+0x 6e 24 DirectColor  0     32  0  rgba   1   0   8   8   8   8  .   .   0   24  8   0   0   0   0   4   1   None
+
