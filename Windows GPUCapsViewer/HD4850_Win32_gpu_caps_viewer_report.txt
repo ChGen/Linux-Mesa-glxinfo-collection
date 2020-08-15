@@ -1,0 +1,908 @@
+===================================================
+GPU Caps Viewer v1.26.0.0
+http://www.ozone3d.net/gpu_caps_viewer/
+===================================================
+
+
+===================================[ System / CPU ]
+- CPU Name: Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz
+- CPU Core Speed: 2504 MHz
+- CPU logical cores: 4
+- Family: 6 - Model: 7 - Stepping: 7
+- Physical Memory Size: 8192 MB
+- Operating System: Windows 7 64-bit build 7601 [Service Pack 1]
+- PhysX Version: 9100222
+
+
+===================================[ Graphics Adapters / GPUs ]
+- Current Display Mode: 1920x1080 @ 60 Hz - 32 bpp
+- Num GPUs: 1
+
+- GPU 1
+  - Name: ATI Radeon HD 4850
+  - GPU codename: RV770
+  - Device ID: 1002-9442
+  - Subdevice ID: 1462-1510
+  - Driver: Catalyst 13.1 (8.970.100.7000 atig6pxx.dll)
+  - Bus Id: 1
+  - Shader cores: 800
+  - Texture units: 40
+  - ROP units: 16
+  - TDP: 114W
+  - BIOS version: 113-AB65701-104
+  - Memory size: 512MB
+  - Memory type: GDDR3
+  - Memory bus width: 0-bit
+  - GPU clock: 160 MHz, memory: 993 MHz, VDDC: 1.046V
+  - GPU clock: 500 MHz, memory: 993 MHz, VDDC: 1.046V
+  - GPU clock: 625 MHz, memory: 993 MHz, VDDC: 1.123V
+
+
+===================================[ OpenGL GPU Capabilities ]
+- OpenGL vendor: ATI Technologies Inc.
+- OpenGL renderer: ATI Radeon HD 4800 Series
+- OpenGL Version: 3.3.11672 Compatibility Profile/Debug Context
+- GLSL (OpenGL Shading Language) Version: 3.30
+- ARB Texture Units: 8
+- Vertex Shader Texture Units: 16
+- Pixel Shader Texture Units: 16
+- Geometry Shader Texture Units: 16
+- Max Texture Size: 8192x8192
+- Max Anisotropic Filtering Value: X16.0
+- Max Point Sprite Size: 8192.0
+- Max Dynamic Lights: 8
+- Max Viewport Size: 8192x8192
+- Max Vertex Uniform Components: 16384
+- Max Fragment Uniform Components: 16384
+- Max Geometry Uniform Components: 16384
+- Max Varying Float: 128
+- Max Vertex Bindable Uniforms: 15
+- Max Fragment Bindable Uniforms: 15
+- Max Geometry Bindable Uniforms: 15
+- Frame Buffer Objects (FBO) Support:[yes]
+- Multiple Render Targets / Max draw buffers: 8
+- Pixel Buffer Objects (PBO) Support:[yes]
+- S3TC Texture Compression Support:[yes]
+- ATI 3Dc Texture Compression Support:[yes]
+- Texture Rectangle Support:[yes]
+- Floating Point Textures Support:[yes]
+- MSAA: 2X
+- MSAA: 4X
+- MSAA: 8X
+- OpenGL Extensions: 218 extensions (GL=197 and WGL=21)
+    <li>GL_AMDX_debug_output</li>
+    <li>GL_AMDX_vertex_shader_tessellator</li>
+    <li>GL_AMD_conservative_depth</li>
+    <li>GL_AMD_debug_output</li>
+    <li>GL_AMD_depth_clamp_separate</li>
+    <li>GL_AMD_draw_buffers_blend</li>
+    <li>GL_AMD_name_gen_delete</li>
+    <li>GL_AMD_performance_monitor</li>
+    <li>GL_AMD_pinned_memory</li>
+    <li>GL_AMD_sample_positions</li>
+    <li>GL_AMD_seamless_cubemap_per_texture</li>
+    <li>GL_AMD_shader_stencil_export</li>
+    <li>GL_AMD_texture_cube_map_array</li>
+    <li>GL_AMD_texture_texture4</li>
+    <li>GL_AMD_vertex_shader_tessellator</li>
+    <li>GL_ARB_ES2_compatibility (OpenGL 4.1)</li>
+    <li>GL_ARB_base_instance (OpenGL 4.2)</li>
+    <li>GL_ARB_blend_func_extended (OpenGL 3.3)</li>
+    <li>GL_ARB_color_buffer_float (OpenGL 3.0)</li>
+    <li>GL_ARB_compressed_texture_pixel_storage (OpenGL 4.2)</li>
+    <li>GL_ARB_conservative_depth (OpenGL 4.2)</li>
+    <li>GL_ARB_copy_buffer (OpenGL 3.1)</li>
+    <li>GL_ARB_debug_output (OpenGL 3.0)</li>
+    <li>GL_ARB_depth_buffer_float (OpenGL 3.0)</li>
+    <li>GL_ARB_depth_clamp (OpenGL 3.2)</li>
+    <li>GL_ARB_depth_texture (OpenGL 1.4)</li>
+    <li>GL_ARB_draw_buffers (OpenGL 2.0)</li>
+    <li>GL_ARB_draw_buffers_blend (OpenGL 4.0)</li>
+    <li>GL_ARB_draw_elements_base_vertex (OpenGL 3.2)</li>
+    <li>GL_ARB_draw_instanced (OpenGL 3.1)</li>
+    <li>GL_ARB_explicit_attrib_location (OpenGL 3.3)</li>
+    <li>GL_ARB_fragment_coord_conventions (OpenGL 3.2)</li>
+    <li>GL_ARB_fragment_program (OpenGL 1.3)</li>
+    <li>GL_ARB_fragment_program_shadow (OpenGL 1.3)</li>
+    <li>GL_ARB_fragment_shader (OpenGL 2.0)</li>
+    <li>GL_ARB_framebuffer_object (OpenGL 3.0)</li>
+    <li>GL_ARB_framebuffer_sRGB (OpenGL 3.0)</li>
+    <li>GL_ARB_geometry_shader4 (OpenGL 3.2)</li>
+    <li>GL_ARB_get_program_binary (OpenGL 4.1)</li>
+    <li>GL_ARB_half_float_pixel (OpenGL 3.0)</li>
+    <li>GL_ARB_half_float_vertex (OpenGL 2.1)</li>
+    <li>GL_ARB_imaging</li>
+    <li>GL_ARB_instanced_arrays (OpenGL 3.3)</li>
+    <li>GL_ARB_internalformat_query (OpenGL 4.2)</li>
+    <li>GL_ARB_map_buffer_alignment (OpenGL 4.2)</li>
+    <li>GL_ARB_map_buffer_range (OpenGL 2.1)</li>
+    <li>GL_ARB_multisample (OpenGL 1.3)</li>
+    <li>GL_ARB_multitexture (OpenGL 1.3)</li>
+    <li>GL_ARB_occlusion_query (OpenGL 1.5)</li>
+    <li>GL_ARB_occlusion_query2 (OpenGL 3.3)</li>
+    <li>GL_ARB_pixel_buffer_object (OpenGL 2.1)</li>
+    <li>GL_ARB_point_parameters (OpenGL 1.4)</li>
+    <li>GL_ARB_point_sprite (OpenGL 2.0)</li>
+    <li>GL_ARB_provoking_vertex (OpenGL 3.2)</li>
+    <li>GL_ARB_sample_shading (OpenGL 4.0)</li>
+    <li>GL_ARB_sampler_objects (OpenGL 3.3)</li>
+    <li>GL_ARB_seamless_cube_map (OpenGL 3.2)</li>
+    <li>GL_ARB_separate_shader_objects (OpenGL 4.1)</li>
+    <li>GL_ARB_shader_bit_encoding (OpenGL 3.3)</li>
+    <li>GL_ARB_shader_objects (OpenGL 2.0)</li>
+    <li>GL_ARB_shader_precision (OpenGL 4.1)</li>
+    <li>GL_ARB_shader_stencil_export (OpenGL 4.0)</li>
+    <li>GL_ARB_shader_texture_lod (OpenGL 2.0)</li>
+    <li>GL_ARB_shading_language_100 (OpenGL 2.0)</li>
+    <li>GL_ARB_shading_language_420pack (OpenGL 4.2)</li>
+    <li>GL_ARB_shading_language_packing (OpenGL 4.1)</li>
+    <li>GL_ARB_shadow (OpenGL 1.4)</li>
+    <li>GL_ARB_shadow_ambient (OpenGL 1.3)</li>
+    <li>GL_ARB_sync (OpenGL 3.2)</li>
+    <li>GL_ARB_texture_border_clamp (OpenGL 1.3)</li>
+    <li>GL_ARB_texture_buffer_object (OpenGL 3.1)</li>
+    <li>GL_ARB_texture_buffer_object_rgb32 (OpenGL 4.0)</li>
+    <li>GL_ARB_texture_compression (OpenGL 1.3)</li>
+    <li>GL_ARB_texture_compression_rgtc (OpenGL 3.0)</li>
+    <li>GL_ARB_texture_cube_map (OpenGL 1.3)</li>
+    <li>GL_ARB_texture_cube_map_array (OpenGL 4.0)</li>
+    <li>GL_ARB_texture_env_add (OpenGL 1.3)</li>
+    <li>GL_ARB_texture_env_combine (OpenGL 1.3)</li>
+    <li>GL_ARB_texture_env_crossbar (OpenGL 1.4)</li>
+    <li>GL_ARB_texture_env_dot3 (OpenGL 1.3)</li>
+    <li>GL_ARB_texture_float (OpenGL 3.0)</li>
+    <li>GL_ARB_texture_gather (OpenGL 4.0)</li>
+    <li>GL_ARB_texture_mirrored_repeat (OpenGL 1.4)</li>
+    <li>GL_ARB_texture_multisample (OpenGL 3.2)</li>
+    <li>GL_ARB_texture_non_power_of_two</li>
+    <li>GL_ARB_texture_query_lod (OpenGL 4.0)</li>
+    <li>GL_ARB_texture_rectangle (OpenGL 3.1)</li>
+    <li>GL_ARB_texture_rg (OpenGL 3.0)</li>
+    <li>GL_ARB_texture_rgb10_a2ui (OpenGL 3.3)</li>
+    <li>GL_ARB_texture_snorm</li>
+    <li>GL_ARB_texture_storage (OpenGL 4.2)</li>
+    <li>GL_ARB_timer_query (OpenGL 3.3)</li>
+    <li>GL_ARB_transform_feedback2 (OpenGL 4.0)</li>
+    <li>GL_ARB_transform_feedback3 (OpenGL 4.0)</li>
+    <li>GL_ARB_transform_feedback_instanced (OpenGL 4.2)</li>
+    <li>GL_ARB_transpose_matrix (OpenGL 1.3)</li>
+    <li>GL_ARB_uniform_buffer_object (OpenGL 3.1)</li>
+    <li>GL_ARB_vertex_array_bgra (OpenGL 3.2)</li>
+    <li>GL_ARB_vertex_array_object (OpenGL 2.1)</li>
+    <li>GL_ARB_vertex_buffer_object (OpenGL 1.5)</li>
+    <li>GL_ARB_vertex_program (Requires OpenGL 1.3)</li>
+    <li>GL_ARB_vertex_shader (OpenGL 2.0)</li>
+    <li>GL_ARB_vertex_type_2_10_10_10_rev (OpenGL 3.3)</li>
+    <li>GL_ARB_viewport_array (OpenGL 4.1)</li>
+    <li>GL_ARB_window_pos (OpenGL 1.4)</li>
+    <li>GL_ATI_draw_buffers (Requires OpenGL 1.3)</li>
+    <li>GL_ATI_envmap_bumpmap</li>
+    <li>GL_ATI_fragment_shader (Requires OpenGL 1.2.1)</li>
+    <li>GL_ATI_meminfo (OpenGL 2.0)</li>
+    <li>GL_ATI_separate_stencil (Requires OpenGL 1.2.1)</li>
+    <li>GL_ATI_texture_compression_3dc (Requires X800 and higher graphics card)</li>
+    <li>GL_ATI_texture_env_combine3 (Requires OpenGL 1.2)</li>
+    <li>GL_ATI_texture_float (Requires OpenGL 1.3)</li>
+    <li>GL_ATI_texture_mirror_once (Requires OpenGL 1.2.1)</li>
+    <li>GL_EXT_abgr</li>
+    <li>GL_EXT_bgra (OpenGL 1.2)</li>
+    <li>GL_EXT_bindable_uniform (OpenGL 2.0)</li>
+    <li>GL_EXT_blend_color (OpenGL 1.4 OpenGL 1.4)</li>
+    <li>GL_EXT_blend_equation_separate</li>
+    <li>GL_EXT_blend_func_separate (Requires OpenGL 1.2 / Core Feature of OpenGL 1.4)</li>
+    <li>GL_EXT_blend_minmax (Requires OpenGL 1.2)</li>
+    <li>GL_EXT_blend_subtract (Requires OpenGL 1.2)</li>
+    <li>GL_EXT_compiled_vertex_array (Requires OpenGL 1.1)</li>
+    <li>GL_EXT_copy_buffer (OpenGL 3.0)</li>
+    <li>GL_EXT_copy_texture</li>
+    <li>GL_EXT_direct_state_access</li>
+    <li>GL_EXT_draw_buffers2 (OpenGL 3.0)</li>
+    <li>GL_EXT_draw_instanced (Requires OpenGL 2.0)</li>
+    <li>GL_EXT_draw_range_elements (Requires OpenGL 1.2 / Core Feature of OpenGL 1.4)</li>
+    <li>GL_EXT_fog_coord (Requires OpenGL 1.2 / Core Feature of OpenGL 1.4)</li>
+    <li>GL_EXT_framebuffer_blit (OpenGL 3.0)</li>
+    <li>GL_EXT_framebuffer_multisample (OpenGL 3.0)</li>
+    <li>GL_EXT_framebuffer_object (Requires OpenGL 3.0)</li>
+    <li>GL_EXT_framebuffer_sRGB (OpenGL 3.0)</li>
+    <li>GL_EXT_geometry_shader4 (Requires OpenGL 2.0)</li>
+    <li>GL_EXT_gpu_program_parameters (Requires OpenGL 2.0)</li>
+    <li>GL_EXT_gpu_shader4 (OpenGL 3.0)</li>
+    <li>GL_EXT_histogram</li>
+    <li>GL_EXT_multi_draw_arrays (OpenGL 1.2 / Core Feature of OpenGL 1.4)</li>
+    <li>GL_EXT_packed_depth_stencil (OpenGL 3.0)</li>
+    <li>GL_EXT_packed_float (OpenGL 3.0)</li>
+    <li>GL_EXT_packed_pixels (Requires OpenGL 1.2)</li>
+    <li>GL_EXT_pixel_buffer_object</li>
+    <li>GL_EXT_point_parameters</li>
+    <li>GL_EXT_provoking_vertex</li>
+    <li>GL_EXT_rescale_normal (Requires OpenGL 1.2)</li>
+    <li>GL_EXT_secondary_color (Requires OpenGL 1.2 / Core Feature of OpenGL 1.4)</li>
+    <li>GL_EXT_separate_specular_color (Requires OpenGL 1.2)</li>
+    <li>GL_EXT_shadow_funcs (Requires OpenGL 1.3 / Core Feature of OpenGL 1.5)</li>
+    <li>GL_EXT_stencil_wrap (Requires OpenGL 1.4)</li>
+    <li>GL_EXT_subtexture</li>
+    <li>GL_EXT_texgen_reflection</li>
+    <li>GL_EXT_texture3D (Requires OpenGL 1.2)</li>
+    <li>GL_EXT_texture_array (OpenGL 3.0)</li>
+    <li>GL_EXT_texture_buffer_object (Requires OpenGL 2.0)</li>
+    <li>GL_EXT_texture_compression_latc</li>
+    <li>GL_EXT_texture_compression_rgtc (OpenGL 3.0)</li>
+    <li>GL_EXT_texture_compression_s3tc (Requires OpenGL 1.2.1)</li>
+    <li>GL_EXT_texture_cube_map (See GL_ARB_texture_cube_map)</li>
+    <li>GL_EXT_texture_edge_clamp</li>
+    <li>GL_EXT_texture_env_add</li>
+    <li>GL_EXT_texture_env_combine</li>
+    <li>GL_EXT_texture_env_dot3</li>
+    <li>GL_EXT_texture_filter_anisotropic (Requires OpenGL 1.2)</li>
+    <li>GL_EXT_texture_integer (OpenGL 3.0)</li>
+    <li>GL_EXT_texture_lod</li>
+    <li>GL_EXT_texture_lod_bias (Requires OpenGL 1.2 / Core Feature of OpenGL 1.4)</li>
+    <li>GL_EXT_texture_mirror_clamp (Requires OpenGL 1.4)</li>
+    <li>GL_EXT_texture_object (Requires OpenGL 1.1)</li>
+    <li>GL_EXT_texture_rectangle (Requires OpenGL 1.3)</li>
+    <li>GL_EXT_texture_sRGB</li>
+    <li>GL_EXT_texture_sRGB_decode</li>
+    <li>GL_EXT_texture_shared_exponent (OpenGL 3.0)</li>
+    <li>GL_EXT_texture_snorm</li>
+    <li>GL_EXT_texture_storage</li>
+    <li>GL_EXT_texture_swizzle (OpenGL 2.1)</li>
+    <li>GL_EXT_timer_query (Requires OpenGL 1.5)</li>
+    <li>GL_EXT_transform_feedback (OpenGL 3.0)</li>
+    <li>GL_EXT_vertex_array (Requires OpenGL 1.1)</li>
+    <li>GL_EXT_vertex_array_bgra</li>
+    <li>GL_IBM_texture_mirrored_repeat</li>
+    <li>GL_KTX_buffer_region</li>
+    <li>GL_NV_blend_square (Requires OpenGL 1.2.1 / Core Feature of OpenGL 1.4)</li>
+    <li>GL_NV_conditional_render (OpenGL 3.0)</li>
+    <li>GL_NV_copy_depth_to_color</li>
+    <li>GL_NV_copy_image</li>
+    <li>GL_NV_explicit_multisample</li>
+    <li>GL_NV_float_buffer</li>
+    <li>GL_NV_half_float (OpenGL 3.0)</li>
+    <li>GL_NV_primitive_restart (OpenGL 3.1)</li>
+    <li>GL_NV_texgen_reflection (Requires OpenGL 1.3)</li>
+    <li>GL_NV_texture_barrier</li>
+    <li>GL_SGIS_generate_mipmap (Requires OpenGL 1.4)</li>
+    <li>GL_SGIS_texture_edge_clamp (Requires OpenGL 1.2)</li>
+    <li>GL_SGIS_texture_lod (Requires OpenGL 1.2)</li>
+    <li>GL_SUN_multi_draw_arrays</li>
+    <li>GL_WIN_swap_hint</li>
+    <li>WGL_EXT_swap_control (Requires OpenGL 1.2)</li>
+    <li>WGL_ARB_extensions_string</li>
+    <li>WGL_ARB_pixel_format</li>
+    <li>WGL_ATI_pixel_format_float (Requires OpenGL 1.3)</li>
+    <li>WGL_ARB_pixel_format_float</li>
+    <li>WGL_ARB_multisample</li>
+    <li>WGL_EXT_swap_control_tear</li>
+    <li>WGL_ARB_pbuffer</li>
+    <li>WGL_ARB_render_texture (Requires OpenGL 1.1)</li>
+    <li>WGL_ARB_make_current_read</li>
+    <li>WGL_EXT_extensions_string</li>
+    <li>WGL_ARB_buffer_region</li>
+    <li>WGL_EXT_framebuffer_sRGB (OpenGL 2.0)</li>
+    <li>WGL_ATI_render_texture_rectangle</li>
+    <li>WGL_EXT_pixel_format_packed_float (OpenGL 2.0)</li>
+    <li>WGL_I3D_genlock (OpenGL 1.2.1)</li>
+    <li>WGL_NV_swap_group</li>
+    <li>WGL_ARB_create_context (OpenGL 3.0)</li>
+    <li>WGL_AMD_gpu_association</li>
+    <li>WGL_AMDX_gpu_association</li>
+    <li>WGL_ARB_create_context_profile</li>
+- OpenGL Extensions: 218 extensions (GL=197 and WGL=21)
+    <li>GL_AMDX_debug_output</li>
+    <li>GL_AMDX_vertex_shader_tessellator</li>
+    <li>GL_AMD_conservative_depth</li>
+    <li>GL_AMD_debug_output</li>
+    <li>GL_AMD_depth_clamp_separate</li>
+    <li>GL_AMD_draw_buffers_blend</li>
+    <li>GL_AMD_name_gen_delete</li>
+    <li>GL_AMD_performance_monitor</li>
+    <li>GL_AMD_pinned_memory</li>
+    <li>GL_AMD_sample_positions</li>
+    <li>GL_AMD_seamless_cubemap_per_texture</li>
+    <li>GL_AMD_shader_stencil_export</li>
+    <li>GL_AMD_texture_cube_map_array</li>
+    <li>GL_AMD_texture_texture4</li>
+    <li>GL_AMD_vertex_shader_tessellator</li>
+    <li>GL_ARB_ES2_compatibility</li>
+    <li>GL_ARB_base_instance</li>
+    <li>GL_ARB_blend_func_extended</li>
+    <li>GL_ARB_color_buffer_float</li>
+    <li>GL_ARB_compressed_texture_pixel_storage</li>
+    <li>GL_ARB_conservative_depth</li>
+    <li>GL_ARB_copy_buffer</li>
+    <li>GL_ARB_debug_output</li>
+    <li>GL_ARB_depth_buffer_float</li>
+    <li>GL_ARB_depth_clamp</li>
+    <li>GL_ARB_depth_texture</li>
+    <li>GL_ARB_draw_buffers</li>
+    <li>GL_ARB_draw_buffers_blend</li>
+    <li>GL_ARB_draw_elements_base_vertex</li>
+    <li>GL_ARB_draw_instanced</li>
+    <li>GL_ARB_explicit_attrib_location</li>
+    <li>GL_ARB_fragment_coord_conventions</li>
+    <li>GL_ARB_fragment_program</li>
+    <li>GL_ARB_fragment_program_shadow</li>
+    <li>GL_ARB_fragment_shader</li>
+    <li>GL_ARB_framebuffer_object</li>
+    <li>GL_ARB_framebuffer_sRGB</li>
+    <li>GL_ARB_geometry_shader4</li>
+    <li>GL_ARB_get_program_binary</li>
+    <li>GL_ARB_half_float_pixel</li>
+    <li>GL_ARB_half_float_vertex</li>
+    <li>GL_ARB_imaging</li>
+    <li>GL_ARB_instanced_arrays</li>
+    <li>GL_ARB_internalformat_query</li>
+    <li>GL_ARB_map_buffer_alignment</li>
+    <li>GL_ARB_map_buffer_range</li>
+    <li>GL_ARB_multisample</li>
+    <li>GL_ARB_multitexture</li>
+    <li>GL_ARB_occlusion_query</li>
+    <li>GL_ARB_occlusion_query2</li>
+    <li>GL_ARB_pixel_buffer_object</li>
+    <li>GL_ARB_point_parameters</li>
+    <li>GL_ARB_point_sprite</li>
+    <li>GL_ARB_provoking_vertex</li>
+    <li>GL_ARB_sample_shading</li>
+    <li>GL_ARB_sampler_objects</li>
+    <li>GL_ARB_seamless_cube_map</li>
+    <li>GL_ARB_separate_shader_objects</li>
+    <li>GL_ARB_shader_bit_encoding</li>
+    <li>GL_ARB_shader_objects</li>
+    <li>GL_ARB_shader_precision</li>
+    <li>GL_ARB_shader_stencil_export</li>
+    <li>GL_ARB_shader_texture_lod</li>
+    <li>GL_ARB_shading_language_100</li>
+    <li>GL_ARB_shading_language_420pack</li>
+    <li>GL_ARB_shading_language_packing</li>
+    <li>GL_ARB_shadow</li>
+    <li>GL_ARB_shadow_ambient</li>
+    <li>GL_ARB_sync</li>
+    <li>GL_ARB_texture_border_clamp</li>
+    <li>GL_ARB_texture_buffer_object</li>
+    <li>GL_ARB_texture_buffer_object_rgb32</li>
+    <li>GL_ARB_texture_compression</li>
+    <li>GL_ARB_texture_compression_rgtc</li>
+    <li>GL_ARB_texture_cube_map</li>
+    <li>GL_ARB_texture_cube_map_array</li>
+    <li>GL_ARB_texture_env_add</li>
+    <li>GL_ARB_texture_env_combine</li>
+    <li>GL_ARB_texture_env_crossbar</li>
+    <li>GL_ARB_texture_env_dot3</li>
+    <li>GL_ARB_texture_float</li>
+    <li>GL_ARB_texture_gather</li>
+    <li>GL_ARB_texture_mirrored_repeat</li>
+    <li>GL_ARB_texture_multisample</li>
+    <li>GL_ARB_texture_non_power_of_two</li>
+    <li>GL_ARB_texture_query_lod</li>
+    <li>GL_ARB_texture_rectangle</li>
+    <li>GL_ARB_texture_rg</li>
+    <li>GL_ARB_texture_rgb10_a2ui</li>
+    <li>GL_ARB_texture_snorm</li>
+    <li>GL_ARB_texture_storage</li>
+    <li>GL_ARB_timer_query</li>
+    <li>GL_ARB_transform_feedback2</li>
+    <li>GL_ARB_transform_feedback3</li>
+    <li>GL_ARB_transform_feedback_instanced</li>
+    <li>GL_ARB_transpose_matrix</li>
+    <li>GL_ARB_uniform_buffer_object</li>
+    <li>GL_ARB_vertex_array_bgra</li>
+    <li>GL_ARB_vertex_array_object</li>
+    <li>GL_ARB_vertex_buffer_object</li>
+    <li>GL_ARB_vertex_program</li>
+    <li>GL_ARB_vertex_shader</li>
+    <li>GL_ARB_vertex_type_2_10_10_10_rev</li>
+    <li>GL_ARB_viewport_array</li>
+    <li>GL_ARB_window_pos</li>
+    <li>GL_ATI_draw_buffers</li>
+    <li>GL_ATI_envmap_bumpmap</li>
+    <li>GL_ATI_fragment_shader</li>
+    <li>GL_ATI_meminfo</li>
+    <li>GL_ATI_separate_stencil</li>
+    <li>GL_ATI_texture_compression_3dc</li>
+    <li>GL_ATI_texture_env_combine3</li>
+    <li>GL_ATI_texture_float</li>
+    <li>GL_ATI_texture_mirror_once</li>
+    <li>GL_EXT_abgr</li>
+    <li>GL_EXT_bgra</li>
+    <li>GL_EXT_bindable_uniform</li>
+    <li>GL_EXT_blend_color</li>
+    <li>GL_EXT_blend_equation_separate</li>
+    <li>GL_EXT_blend_func_separate</li>
+    <li>GL_EXT_blend_minmax</li>
+    <li>GL_EXT_blend_subtract</li>
+    <li>GL_EXT_compiled_vertex_array</li>
+    <li>GL_EXT_copy_buffer</li>
+    <li>GL_EXT_copy_texture</li>
+    <li>GL_EXT_direct_state_access</li>
+    <li>GL_EXT_draw_buffers2</li>
+    <li>GL_EXT_draw_instanced</li>
+    <li>GL_EXT_draw_range_elements</li>
+    <li>GL_EXT_fog_coord</li>
+    <li>GL_EXT_framebuffer_blit</li>
+    <li>GL_EXT_framebuffer_multisample</li>
+    <li>GL_EXT_framebuffer_object</li>
+    <li>GL_EXT_framebuffer_sRGB</li>
+    <li>GL_EXT_geometry_shader4</li>
+    <li>GL_EXT_gpu_program_parameters</li>
+    <li>GL_EXT_gpu_shader4</li>
+    <li>GL_EXT_histogram</li>
+    <li>GL_EXT_multi_draw_arrays</li>
+    <li>GL_EXT_packed_depth_stencil</li>
+    <li>GL_EXT_packed_float</li>
+    <li>GL_EXT_packed_pixels</li>
+    <li>GL_EXT_pixel_buffer_object</li>
+    <li>GL_EXT_point_parameters</li>
+    <li>GL_EXT_provoking_vertex</li>
+    <li>GL_EXT_rescale_normal</li>
+    <li>GL_EXT_secondary_color</li>
+    <li>GL_EXT_separate_specular_color</li>
+    <li>GL_EXT_shadow_funcs</li>
+    <li>GL_EXT_stencil_wrap</li>
+    <li>GL_EXT_subtexture</li>
+    <li>GL_EXT_texgen_reflection</li>
+    <li>GL_EXT_texture3D</li>
+    <li>GL_EXT_texture_array</li>
+    <li>GL_EXT_texture_buffer_object</li>
+    <li>GL_EXT_texture_compression_latc</li>
+    <li>GL_EXT_texture_compression_rgtc</li>
+    <li>GL_EXT_texture_compression_s3tc</li>
+    <li>GL_EXT_texture_cube_map</li>
+    <li>GL_EXT_texture_edge_clamp</li>
+    <li>GL_EXT_texture_env_add</li>
+    <li>GL_EXT_texture_env_combine</li>
+    <li>GL_EXT_texture_env_dot3</li>
+    <li>GL_EXT_texture_filter_anisotropic</li>
+    <li>GL_EXT_texture_integer</li>
+    <li>GL_EXT_texture_lod</li>
+    <li>GL_EXT_texture_lod_bias</li>
+    <li>GL_EXT_texture_mirror_clamp</li>
+    <li>GL_EXT_texture_object</li>
+    <li>GL_EXT_texture_rectangle</li>
+    <li>GL_EXT_texture_sRGB</li>
+    <li>GL_EXT_texture_sRGB_decode</li>
+    <li>GL_EXT_texture_shared_exponent</li>
+    <li>GL_EXT_texture_snorm</li>
+    <li>GL_EXT_texture_storage</li>
+    <li>GL_EXT_texture_swizzle</li>
+    <li>GL_EXT_timer_query</li>
+    <li>GL_EXT_transform_feedback</li>
+    <li>GL_EXT_vertex_array</li>
+    <li>GL_EXT_vertex_array_bgra</li>
+    <li>GL_IBM_texture_mirrored_repeat</li>
+    <li>GL_KTX_buffer_region</li>
+    <li>GL_NV_blend_square</li>
+    <li>GL_NV_conditional_render</li>
+    <li>GL_NV_copy_depth_to_color</li>
+    <li>GL_NV_copy_image</li>
+    <li>GL_NV_explicit_multisample</li>
+    <li>GL_NV_float_buffer</li>
+    <li>GL_NV_half_float</li>
+    <li>GL_NV_primitive_restart</li>
+    <li>GL_NV_texgen_reflection</li>
+    <li>GL_NV_texture_barrier</li>
+    <li>GL_SGIS_generate_mipmap</li>
+    <li>GL_SGIS_texture_edge_clamp</li>
+    <li>GL_SGIS_texture_lod</li>
+    <li>GL_SUN_multi_draw_arrays</li>
+    <li>GL_WIN_swap_hint</li>
+    <li>WGL_EXT_swap_control</li>
+    <li>WGL_ARB_extensions_string</li>
+    <li>WGL_ARB_pixel_format</li>
+    <li>WGL_ATI_pixel_format_float</li>
+    <li>WGL_ARB_pixel_format_float</li>
+    <li>WGL_ARB_multisample</li>
+    <li>WGL_EXT_swap_control_tear</li>
+    <li>WGL_ARB_pbuffer</li>
+    <li>WGL_ARB_render_texture</li>
+    <li>WGL_ARB_make_current_read</li>
+    <li>WGL_EXT_extensions_string</li>
+    <li>WGL_ARB_buffer_region</li>
+    <li>WGL_EXT_framebuffer_sRGB</li>
+    <li>WGL_ATI_render_texture_rectangle</li>
+    <li>WGL_EXT_pixel_format_packed_float</li>
+    <li>WGL_I3D_genlock</li>
+    <li>WGL_NV_swap_group</li>
+    <li>WGL_ARB_create_context</li>
+    <li>WGL_AMD_gpu_association</li>
+    <li>WGL_AMDX_gpu_association</li>
+    <li>WGL_ARB_create_context_profile</li>
+- OpenGL core capabilities: 176 caps listed
+    <li>GL_MAX_LIST_NESTING: 64</li>
+    <li>GL_MAX_EVAL_ORDER: 40</li>
+    <li>GL_MAX_LIGHTS: 8</li>
+    <li>GL_MAX_CLIP_PLANES: 8</li>
+    <li>GL_MAX_TEXTURE_SIZE: 8192</li>
+    <li>GL_MAX_PIXEL_MAP_TABLE: 256</li>
+    <li>GL_MAX_ATTRIB_STACK_DEPTH: 16</li>
+    <li>GL_MAX_MODELVIEW_STACK_DEPTH: 32</li>
+    <li>GL_MAX_NAME_STACK_DEPTH: 64</li>
+    <li>GL_MAX_PROJECTION_STACK_DEPTH: 10</li>
+    <li>GL_MAX_TEXTURE_STACK_DEPTH: 10</li>
+    <li>GL_MAX_VIEWPORT_DIMS: 8192</li>
+    <li>GL_MAX_CLIENT_ATTRIB_STACK_DEPTH: 16</li>
+    <li>GL_MAX_3D_TEXTURE_SIZE: 8192</li>
+    <li>GL_MAX_ELEMENTS_VERTICES: 2147483647</li>
+    <li>GL_MAX_ELEMENTS_INDICES: 16777215</li>
+    <li>GL_MAX_TEXTURE_UNITS: 8</li>
+    <li>GL_MAX_CUBE_MAP_TEXTURE_SIZE: 8192</li>
+    <li>GL_MAX_TEXTURE_LOD_BIAS: 16</li>
+    <li>GL_MAX_DRAW_BUFFERS: 8</li>
+    <li>GL_MAX_VERTEX_ATTRIBS: 29</li>
+    <li>GL_MAX_TEXTURE_COORDS: 16</li>
+    <li>GL_MAX_TEXTURE_IMAGE_UNITS: 16</li>
+    <li>GL_MAX_FRAGMENT_UNIFORM_COMPONENTS: 16384</li>
+    <li>GL_MAX_VERTEX_UNIFORM_COMPONENTS: 16384</li>
+    <li>GL_MAX_VARYING_FLOATS: 128</li>
+    <li>GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 16</li>
+    <li>GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 32</li>
+    <li>GL_MAX_CLIP_DISTANCES: 8</li>
+    <li>GL_MAX_ARRAY_TEXTURE_LAYERS: 8192</li>
+    <li>GL_MAX_VARYING_COMPONENTS: 128</li>
+    <li>GL_MIN_PROGRAM_TEXEL_OFFSET: -8</li>
+    <li>GL_MAX_PROGRAM_TEXEL_OFFSET: 7</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS: 4</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS: 64</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS: 4</li>
+    <li>GL_MAX_RENDERBUFFER_SIZE: 8192</li>
+    <li>GL_MAX_COLOR_ATTACHMENTS: 8</li>
+    <li>GL_MAX_SAMPLES: 8</li>
+    <li>GL_MIN_PROGRAM_TEXEL_OFFSET_EXT: -8</li>
+    <li>GL_MAX_PROGRAM_TEXEL_OFFSET_EXT: 7</li>
+    <li>GL_RGBA_FLOAT_MODE_ARB: 0</li>
+    <li>GL_MAX_COLOR_ATTACHMENTS_EXT: 8</li>
+    <li>GL_MAX_RENDERBUFFER_SIZE_EXT: 8192</li>
+    <li>GL_MAX_SAMPLES_EXT: 8</li>
+    <li>GL_RGBA_INTEGER_MODE_EXT: 0</li>
+    <li>GL_MAX_ARRAY_TEXTURE_LAYERS_EXT: 8192</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS_EXT: 64</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS_EXT: 4</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS_EXT: 4</li>
+    <li>GL_FRAMEBUFFER_SRGB_CAPABLE_EXT: 1</li>
+    <li>GL_MAX_RECTANGLE_TEXTURE_SIZE: 8192</li>
+    <li>GL_MAX_TEXTURE_BUFFER_SIZE: 268435456</li>
+    <li>GL_MAX_TEXTURE_BUFFER_SIZE_ARB: 268435456</li>
+    <li>GL_MAX_VERTEX_UNIFORM_BLOCKS: 15</li>
+    <li>GL_MAX_GEOMETRY_UNIFORM_BLOCKS: 15</li>
+    <li>GL_MAX_FRAGMENT_UNIFORM_BLOCKS: 15</li>
+    <li>GL_MAX_COMBINED_UNIFORM_BLOCKS: 45</li>
+    <li>GL_MAX_UNIFORM_BUFFER_BINDINGS: 45</li>
+    <li>GL_MAX_UNIFORM_BLOCK_SIZE: 65536</li>
+    <li>GL_MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS: 262144</li>
+    <li>GL_MAX_COMBINED_GEOMETRY_UNIFORM_COMPONENTS: 262144</li>
+    <li>GL_MAX_COMBINED_FRAGMENT_UNIFORM_COMPONENTS: 262144</li>
+    <li>GL_UNIFORM_BUFFER_OFFSET_ALIGNMENT: 256</li>
+    <li>GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS: 16</li>
+    <li>GL_MAX_GEOMETRY_UNIFORM_COMPONENTS: 16384</li>
+    <li>GL_MAX_GEOMETRY_OUTPUT_VERTICES: 1024</li>
+    <li>GL_MAX_GEOMETRY_TOTAL_OUTPUT_COMPONENTS: 16384</li>
+    <li>GL_MAX_VERTEX_OUTPUT_COMPONENTS: 128</li>
+    <li>GL_MAX_GEOMETRY_INPUT_COMPONENTS: 128</li>
+    <li>GL_MAX_GEOMETRY_OUTPUT_COMPONENTS: 128</li>
+    <li>GL_MAX_FRAGMENT_INPUT_COMPONENTS: 128</li>
+    <li>GL_MAX_SERVER_WAIT_TIMEOUT: 2147483647</li>
+    <li>GL_MAX_SAMPLE_MASK_WORDS: 1</li>
+    <li>GL_MAX_COLOR_TEXTURE_SAMPLES: 8</li>
+    <li>GL_MAX_DEPTH_TEXTURE_SAMPLES: 8</li>
+    <li>GL_MAX_INTEGER_SAMPLES: 8</li>
+    <li>GL_PROVOKING_VERTEX: 36430</li>
+    <li>GL_QUADS_FOLLOW_PROVOKING_VERTEX_CONVENTION: 1</li>
+    <li>GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS_ARB: 16</li>
+    <li>GL_MAX_GEOMETRY_VARYING_COMPONENTS_ARB: 128</li>
+    <li>GL_MAX_VERTEX_VARYING_COMPONENTS_ARB: 128</li>
+    <li>GL_MAX_GEOMETRY_UNIFORM_COMPONENTS_ARB: 16384</li>
+    <li>GL_MAX_GEOMETRY_OUTPUT_VERTICES_ARB: 1024</li>
+    <li>GL_MAX_GEOMETRY_TOTAL_OUTPUT_COMPONENTS_ARB: 16384</li>
+    <li>GL_MAX_DUAL_SOURCE_DRAW_BUFFERS: 1</li>
+    <li>GL_FRAGMENT_INTERPOLATION_OFFSET_BITS: 0</li>
+    <li>GL_MIN_SAMPLE_SHADING_VALUE: 2147482496</li>
+    <li>GL_MAX_GEOMETRY_SHADER_INVOCATIONS: 1</li>
+    <li>GL_MIN_FRAGMENT_INTERPOLATION_OFFSET: 0</li>
+    <li>GL_MAX_FRAGMENT_INTERPOLATION_OFFSET: 0</li>
+    <li>GL_MIN_PROGRAM_TEXTURE_GATHER_OFFSET: 0</li>
+    <li>GL_MAX_PROGRAM_TEXTURE_GATHER_OFFSET: 0</li>
+    <li>GL_MAX_PROGRAM_TEXTURE_GATHER_COMPONENTS: 0</li>
+    <li>GL_MAX_SUBROUTINES: 0</li>
+    <li>GL_MAX_SUBROUTINE_UNIFORM_LOCATIONS: 0</li>
+    <li>GL_MAX_PATCH_VERTICES: 0</li>
+    <li>GL_MAX_TESS_GEN_LEVEL: 0</li>
+    <li>GL_MAX_TESS_CONTROL_UNIFORM_COMPONENTS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_UNIFORM_COMPONENTS: 0</li>
+    <li>GL_MAX_TESS_CONTROL_TEXTURE_IMAGE_UNITS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_TEXTURE_IMAGE_UNITS: 0</li>
+    <li>GL_MAX_TESS_CONTROL_OUTPUT_COMPONENTS: 0</li>
+    <li>GL_MAX_TESS_PATCH_COMPONENTS: 0</li>
+    <li>GL_MAX_TESS_CONTROL_TOTAL_OUTPUT_COMPONENTS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_OUTPUT_COMPONENTS: 0</li>
+    <li>GL_MAX_TESS_CONTROL_UNIFORM_BLOCKS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_UNIFORM_BLOCKS: 0</li>
+    <li>GL_MAX_TESS_CONTROL_INPUT_COMPONENTS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_INPUT_COMPONENTS: 0</li>
+    <li>GL_MAX_COMBINED_TESS_CONTROL_UNIFORM_COMPONENTS: 16384</li>
+    <li>GL_MAX_COMBINED_TESS_EVALUATION_UNIFORM_COMPONENTS: 16384</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_BUFFERS: 4</li>
+    <li>GL_MAX_VERTEX_STREAMS: 1</li>
+    <li>GL_MAX_VERTEX_UNIFORM_VECTORS: 4096</li>
+    <li>GL_MAX_VARYING_VECTORS: 32</li>
+    <li>GL_MAX_FRAGMENT_UNIFORM_VECTORS: 4096</li>
+    <li>GL_MAX_VIEWPORTS: 16</li>
+    <li>GL_MAX_TESS_CONTROL_ATOMIC_COUNTER_BUFFERS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_ATOMIC_COUNTER_BUFFERS: 0</li>
+    <li>GL_MAX_VERTEX_ATOMIC_COUNTER_BUFFERS: 0</li>
+    <li>GL_MAX_GEOMETRY_ATOMIC_COUNTER_BUFFERS: 0</li>
+    <li>GL_MAX_FRAGMENT_ATOMIC_COUNTER_BUFFERS: 0</li>
+    <li>GL_MAX_COMBINED_ATOMIC_COUNTER_BUFFERS: 0</li>
+    <li>GL_MAX_VERTEX_ATOMIC_COUNTERS: 0</li>
+    <li>GL_MAX_TESS_CONTROL_ATOMIC_COUNTERS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_ATOMIC_COUNTERS: 0</li>
+    <li>GL_MAX_GEOMETRY_ATOMIC_COUNTERS: 0</li>
+    <li>GL_MAX_FRAGMENT_ATOMIC_COUNTERS: 0</li>
+    <li>GL_MAX_COMBINED_ATOMIC_COUNTERS: 0</li>
+    <li>GL_MAX_ATOMIC_COUNTER_BUFFER_SIZE: 0</li>
+    <li>GL_MAX_ATOMIC_COUNTER_BUFFER_BINDINGS: 0</li>
+    <li>GL_MAX_IMAGE_UNITS: 0</li>
+    <li>GL_MAX_COMBINED_IMAGE_UNITS_AND_FRAGMENT_OUTPUTS: 0</li>
+    <li>GL_MAX_IMAGE_SAMPLES: 0</li>
+    <li>GL_MAX_VERTEX_IMAGE_UNIFORMS: 0</li>
+    <li>GL_MAX_TESS_CONTROL_IMAGE_UNIFORMS: 0</li>
+    <li>GL_MAX_TESS_EVALUATION_IMAGE_UNIFORMS: 0</li>
+    <li>GL_MAX_GEOMETRY_IMAGE_UNIFORMS: 0</li>
+    <li>GL_MAX_FRAGMENT_IMAGE_UNIFORMS: 0</li>
+    <li>GL_MAX_COMBINED_IMAGE_UNIFORMS: 0</li>
+    <li>GL_MIN_MAP_BUFFER_ALIGNMENT: 256</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_WIDTH: 0</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_HEIGHT: 0</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_DEPTH: 0</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_SIZE: 0</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_WIDTH: 0</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_HEIGHT: 0</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_DEPTH: 0</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_SIZE: 0</li>
+    <li>GL_MAX_COMPUTE_UNIFORM_BLOCKS: 0</li>
+    <li>GL_MAX_COMPUTE_TEXTURE_IMAGE_UNITS: 0</li>
+    <li>GL_MAX_COMPUTE_IMAGE_UNIFORMS: 0</li>
+    <li>GL_MAX_COMPUTE_SHARED_MEMORY_SIZE: 0</li>
+    <li>GL_MAX_COMPUTE_UNIFORM_COMPONENTS: 0</li>
+    <li>GL_MAX_COMPUTE_ATOMIC_COUNTER_BUFFERS: 0</li>
+    <li>GL_MAX_COMPUTE_ATOMIC_COUNTERS: 0</li>
+    <li>GL_MAX_COMBINED_COMPUTE_UNIFORM_COMPONENTS: 0</li>
+    <li>GL_MAX_COMPUTE_WORK_GROUP_INVOCATIONS: 0</li>
+    <li>GL_MAX_VERTEX_ATTRIB_RELATIVE_OFFSET: 0</li>
+    <li>GL_MAX_VERTEX_ATTRIB_BINDINGS: 0</li>
+    <li>GL_MAX_UNIFORM_LOCATIONS: 0</li>
+    <li>GL_MAX_FRAMEBUFFER_WIDTH: 0</li>
+    <li>GL_MAX_FRAMEBUFFER_HEIGHT: 0</li>
+    <li>GL_MAX_FRAMEBUFFER_LAYERS: 0</li>
+    <li>GL_MAX_FRAMEBUFFER_SAMPLES: 0</li>
+    <li>GL_MAX_COMPUTE_VARIABLE_GROUP_INVOCATIONS_ARB: 0</li>
+    <li>GL_MAX_COMPUTE_FIXED_GROUP_INVOCATIONS_ARB: 0</li>
+    <li>GL_MAX_COMPUTE_VARIABLE_GROUP_SIZE_ARB: 0</li>
+    <li>GL_MAX_COMPUTE_FIXED_GROUP_SIZE_ARB: 0</li>
+    <li>GL_MAX_SPARSE_TEXTURE_SIZE_ARB: 0</li>
+    <li>GL_MAX_SPARSE_3D_TEXTURE_SIZE_ARB: 0</li>
+    <li>GL_MAX_SPARSE_ARRAY_TEXTURE_LAYERS_ARB: 0</li>
+    <li>GL_SPARSE_TEXTURE_FULL_ARRAY_CUBE_MIPMAPS_ARB: 0</li>
+    <li>GL_MAX_CULL_DISTANCES: 0</li>
+    <li>GL_MAX_COMBINED_CLIP_AND_CULL_DISTANCES: 0</li>
+- OpenGL extension capabilities: 99 caps listed
+    <li>GL_RGBA_FLOAT_MODE_ARB: 0 (GL_ARB_color_buffer_float)</li>
+    <li>GL_MAX_COLOR_ATTACHMENTS_EXT: 8 (GL_EXT_framebuffer_object)</li>
+    <li>GL_MAX_RENDERBUFFER_SIZE_EXT: 8192 (GL_EXT_framebuffer_object)</li>
+    <li>GL_MAX_SAMPLES_EXT: 8 (GL_EXT_framebuffer_multisample)</li>
+    <li>GL_RGBA_INTEGER_MODE_EXT: 0 (GL_EXT_texture_integer)</li>
+    <li>GL_MAX_ARRAY_TEXTURE_LAYERS_EXT: 8192 (GL_EXT_texture_array)</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS_EXT: 64 (GL_EXT_transform_feedback)</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS_EXT: 4 (GL_EXT_transform_feedback)</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS_EXT: 4 (GL_EXT_transform_feedback)</li>
+    <li>GL_FRAMEBUFFER_SRGB_CAPABLE_EXT: 1 (GL_EXT_framebuffer_sRGB)</li>
+    <li>GL_MAX_TEXTURE_BUFFER_SIZE_ARB: 268435456 (GL_ARB_texture_buffer_object)</li>
+    <li>GL_MAX_VERTEX_UNIFORM_BLOCKS: 15 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_GEOMETRY_UNIFORM_BLOCKS: 15 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_FRAGMENT_UNIFORM_BLOCKS: 15 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_COMBINED_UNIFORM_BLOCKS: 45 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_UNIFORM_BUFFER_BINDINGS: 45 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_UNIFORM_BLOCK_SIZE: 65536 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS: 262144 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_COMBINED_GEOMETRY_UNIFORM_COMPONENTS: 262144 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_COMBINED_FRAGMENT_UNIFORM_COMPONENTS: 262144 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_UNIFORM_BUFFER_OFFSET_ALIGNMENT: 256 (GL_ARB_uniform_buffer_object)</li>
+    <li>GL_MAX_RECTANGLE_TEXTURE_SIZE: 8192 (GL_ARB_texture_rectangle)</li>
+    <li>GL_PROVOKING_VERTEX: 36430 (GL_ARB_provoking_vertex)</li>
+    <li>GL_QUADS_FOLLOW_PROVOKING_VERTEX_CONVENTION: 1 (GL_ARB_provoking_vertex)</li>
+    <li>GL_MAX_SAMPLE_MASK_WORDS: 1 (GL_ARB_texture_multisample)</li>
+    <li>GL_MAX_COLOR_TEXTURE_SAMPLES: 8 (GL_ARB_texture_multisample)</li>
+    <li>GL_MAX_DEPTH_TEXTURE_SAMPLES: 8 (GL_ARB_texture_multisample)</li>
+    <li>GL_MAX_INTEGER_SAMPLES: 8 (GL_ARB_texture_multisample)</li>
+    <li>GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS_ARB: 16 (GL_ARB_geometry_shader4)</li>
+    <li>GL_MAX_GEOMETRY_VARYING_COMPONENTS_ARB: 128 (GL_ARB_geometry_shader4)</li>
+    <li>GL_MAX_VERTEX_VARYING_COMPONENTS_ARB: 128 (GL_ARB_geometry_shader4)</li>
+    <li>GL_MAX_GEOMETRY_UNIFORM_COMPONENTS_ARB: 16384 (GL_ARB_geometry_shader4)</li>
+    <li>GL_MAX_GEOMETRY_OUTPUT_VERTICES_ARB: 1024 (GL_ARB_geometry_shader4)</li>
+    <li>GL_MAX_GEOMETRY_TOTAL_OUTPUT_COMPONENTS_ARB: 16384 (GL_ARB_geometry_shader4)</li>
+    <li>GL_MAX_SERVER_WAIT_TIMEOUT: 9223372036854775807 (GL_ARB_sync)</li>
+    <li>GL_MAX_DUAL_SOURCE_DRAW_BUFFERS: 1 (GL_ARB_blend_func_extended)</li>
+    <li>GL_MIN_SAMPLE_SHADING_VALUE: 2147482496 (GL_ARB_sample_shading)</li>
+    <li>GL_MIN_PROGRAM_TEXTURE_GATHER_OFFSET: 0 (GL_ARB_texture_gather)</li>
+    <li>GL_MAX_PROGRAM_TEXTURE_GATHER_OFFSET: 0 (GL_ARB_texture_gather)</li>
+    <li>GL_MAX_PROGRAM_TEXTURE_GATHER_COMPONENTS: 0 (GL_ARB_texture_gather)</li>
+    <li>GL_MAX_TRANSFORM_FEEDBACK_BUFFERS: 4 (GL_ARB_transform_feedback3)</li>
+    <li>GL_NUM_PROGRAM_BINARY_FORMATS: 1 (GL_ARB_get_program_binary)</li>
+    <li>GL_MAX_VIEWPORTS: 16 (GL_ARB_viewport_array)</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_WIDTH: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_HEIGHT: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_DEPTH: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_UNPACK_COMPRESSED_BLOCK_SIZE: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_WIDTH: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_HEIGHT: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_DEPTH: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_PACK_COMPRESSED_BLOCK_SIZE: 0 (GL_ARB_compressed_texture_pixel_storage)</li>
+    <li>GL_MIN_MAP_BUFFER_ALIGNMENT: 256 (GL_ARB_map_buffer_alignment)</li>
+    <li>GL_MIN_PROGRAM_TEXEL_OFFSET_EXT: -8 (GL_EXT_gpu_shader4)</li>
+    <li>GL_MAX_PROGRAM_TEXEL_OFFSET_EXT: 7 (GL_EXT_gpu_shader4)</li>
+    <li>GL_MAX_TEXTURE_UNITS_ARB: 8 (GL_ARB_multitexture)</li>
+    <li>GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS_ARB: 16 (GL_ARB_multitexture)</li>
+    <li>GL_MAX_TEXTURE_IMAGE_UNITS_ARB: 16 (GL_ARB_multitexture)</li>
+    <li>GL_MAX_CUBE_MAP_TEXTURE_SIZE_ARB: 8192 (GL_ARB_texture_cube_map)</li>
+    <li>GL_NUM_COMPRESSED_TEXTURE_FORMATS: 16 (GL_ARB_texture_compression)</li>
+    <li>GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16.000000 (GL_EXT_texture_filter_anisotropic)</li>
+    <li>GL_MAX_VERTEX_UNIFORM_COMPONENTS: 16384 (GL_ARB_vertex_shader)</li>
+    <li>GL_MAX_VARYING_FLOATS: 128 (GL_ARB_vertex_shader)</li>
+    <li>GL_MAX_VERTEX_ATTRIBS: 29 (GL_ARB_vertex_shader)</li>
+    <li>GL_MAX_TEXTURE_IMAGE_UNITS: 16 (GL_ARB_vertex_shader)</li>
+    <li>GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 16 (GL_ARB_vertex_shader)</li>
+    <li>GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 32 (GL_ARB_vertex_shader)</li>
+    <li>GL_MAX_TEXTURE_COORDS: 16 (GL_ARB_vertex_shader)</li>
+    <li>GL_MAX_FRAGMENT_UNIFORM_COMPONENTS_ARB: 16384 (GL_ARB_fragment_shader)</li>
+    <li>GL_MAX_VERTEX_ATTRIBS_ARB: 29 (GL_ARB_vertex_program)</li>
+    <li>GL_MAX_PROGRAM_MATRICES_ARB: 32 (GL_ARB_vertex_program)</li>
+    <li>GL_MAX_PROGRAM_MATRIX_STACK_DEPTH_ARB: 32 (GL_ARB_vertex_program)</li>
+    <li>GL_MAX_TEXTURE_COORDS_ARB: 16 (GL_ARB_fragment_program)</li>
+    <li>GL_MAX_FRAGMENT_UNIFORM_COMPONENTS: 16384 (GL_ARB_shading_language_100)</li>
+    <li>GL_MAX_GEOMETRY_UNIFORM_COMPONENTS_EXT: 16384 (GL_ARB_shading_language_100)</li>
+    <li>GL_MAX_DRAW_BUFFERS_ARB: 8 (GL_ARB_draw_buffers)</li>
+    <li>GL_MAX_COLOR_ATTACHMENTS: 8 (GL_ARB_framebuffer_object)</li>
+    <li>GL_MAX_RENDERBUFFER_SIZE: 8192 (GL_ARB_framebuffer_object)</li>
+    <li>GL_MAX_SAMPLES: 8 (GL_ARB_framebuffer_object)</li>
+    <li>GL_MAX_CONVOLUTION_WIDTH: 0 (GL_ARB_imaging)</li>
+    <li>GL_MAX_CONVOLUTION_HEIGHT: 0 (GL_ARB_imaging)</li>
+    <li>GL_MAX_COLOR_MATRIX_STACK_DEPTH: 10 (GL_ARB_imaging)</li>
+    <li>GL_POINT_SIZE_MIN_ARB: 0.000000 (GL_ARB_point_parameters)</li>
+    <li>GL_POINT_SIZE_MAX_ARB: 8192.000000 (GL_ARB_point_parameters)</li>
+    <li>GL_MAX_VERTEX_UNIFORM_VECTORS: 4096 (GL_ARB_ES2_compatibility)</li>
+    <li>GL_MAX_VARYING_VECTORS: 32 (GL_ARB_ES2_compatibility)</li>
+    <li>GL_MAX_FRAGMENT_UNIFORM_VECTORS: 4096 (GL_ARB_ES2_compatibility)</li>
+    <li>GL_MAX_DEBUG_MESSAGE_LENGTH: 1024 (GL_ARB_debug_output)</li>
+    <li>GL_MAX_DEBUG_LOGGED_MESSAGES_ARB: 256 (GL_ARB_debug_output)</li>
+    <li>GL_MAX_DEBUG_MESSAGE_LENGTH_AMD: 1024 (GL_AMD_debug_output)</li>
+    <li>GL_MAX_DEBUG_LOGGED_MESSAGES_AMD: 256 (GL_AMD_debug_output)</li>
+    <li>GL_MAX_VERTEX_BINDABLE_UNIFORMS_EXT: 15 (GL_EXT_bindable_uniform)</li>
+    <li>GL_MAX_FRAGMENT_BINDABLE_UNIFORMS_EXT: 15 (GL_EXT_bindable_uniform)</li>
+    <li>GL_MAX_GEOMETRY_BINDABLE_UNIFORMS_EXT: 15 (GL_EXT_bindable_uniform)</li>
+    <li>GL_MAX_BINDABLE_UNIFORM_SIZE_EXT: 65536 (GL_EXT_bindable_uniform)</li>
+    <li>GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS_EXT: 16 (GL_EXT_geometry_shader4)</li>
+    <li>GL_MAX_GEOMETRY_OUTPUT_VERTICES_EXT: 1024 (GL_EXT_geometry_shader4)</li>
+    <li>GL_MAX_TEXTURE_BUFFER_SIZE_EXT: 268435456 (GL_EXT_texture_buffer_object)</li>
+    <li>GL_MAX_SAMPLE_MASK_WORDS_NV: 1 (GL_NV_explicit_multisample)</li>
+
+
+===================================[ OpenCL Capabilities ]
+- Num OpenCL platforms: 1
+- CL_PLATFORM_NAME: AMD Accelerated Parallel Processing
+- CL_PLATFORM_VENDOR: Advanced Micro Devices, Inc.
+- CL_PLATFORM_VERSION: OpenCL 1.2 AMD-APP (937.2)
+- CL_PLATFORM_PROFILE: FULL_PROFILE
+- Num devices: 2
+
+	- CL_DEVICE_NAME: ATI RV770
+	- CL_DEVICE_VENDOR: Advanced Micro Devices, Inc.
+	- CL_DRIVER_VERSION: CAL 1.4.1734
+	- CL_DEVICE_PROFILE: FULL_PROFILE
+	- CL_DEVICE_VERSION: OpenCL 1.0 AMD-APP (937.2)
+	- CL_DEVICE_TYPE: GPU
+	- CL_DEVICE_VENDOR_ID: 0x1002
+	- CL_DEVICE_MAX_COMPUTE_UNITS: 10
+	- CL_DEVICE_MAX_CLOCK_FREQUENCY: 625MHz
+	- CL_DEVICE_ADDRESS_BITS: 32
+	- CL_DEVICE_MAX_MEM_ALLOC_SIZE: 131072KB
+	- CL_DEVICE_GLOBAL_MEM_SIZE: 256MB
+	- CL_DEVICE_MAX_PARAMETER_SIZE: 1024
+	- CL_DEVICE_GLOBAL_MEM_CACHELINE_SIZE: 0 Bytes
+	- CL_DEVICE_GLOBAL_MEM_CACHE_SIZE: 0KB
+	- CL_DEVICE_ERROR_CORRECTION_SUPPORT: NO
+	- CL_DEVICE_LOCAL_MEM_TYPE: Global
+	- CL_DEVICE_LOCAL_MEM_SIZE: 16KB
+	- CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE: 64KB
+	- CL_DEVICE_MAX_WORK_ITEM_DIMENSIONS: 3
+	- CL_DEVICE_MAX_WORK_ITEM_SIZES: [256 ; 256 ; 256]
+	- CL_DEVICE_MAX_WORK_GROUP_SIZE: 256
+	- CL_EXEC_NATIVE_KERNEL: 11911164
+	- CL_DEVICE_IMAGE_SUPPORT: NO
+	- CL_DEVICE_MAX_READ_IMAGE_ARGS: 0
+	- CL_DEVICE_MAX_WRITE_IMAGE_ARGS: 0
+	- CL_DEVICE_IMAGE2D_MAX_WIDTH: 0
+	- CL_DEVICE_IMAGE2D_MAX_HEIGHT: 0
+	- CL_DEVICE_IMAGE3D_MAX_WIDTH: 0
+	- CL_DEVICE_IMAGE3D_MAX_HEIGHT: 0
+	- CL_DEVICE_IMAGE3D_MAX_DEPTH: 0
+	- CL_DEVICE_MAX_SAMPLERS: 0
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_CHAR: 16
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_SHORT: 8
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_INT: 4
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_LONG: 2
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_FLOAT: 4
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_DOUBLE: 2
+	- CL_DEVICE_EXTENSIONS: 5
+	- Extensions:
+		- cl_khr_fp64
+		- cl_amd_fp64
+		- cl_khr_gl_sharing
+		- cl_amd_device_attribute_query
+		- cl_khr_d3d10_sharing
+
+	- CL_DEVICE_NAME: Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz
+	- CL_DEVICE_VENDOR: GenuineIntel
+	- CL_DRIVER_VERSION: 2.0 (sse2)
+	- CL_DEVICE_PROFILE: FULL_PROFILE
+	- CL_DEVICE_VERSION: OpenCL 1.2 AMD-APP (937.2)
+	- CL_DEVICE_TYPE: CPU
+	- CL_DEVICE_VENDOR_ID: 0x1002
+	- CL_DEVICE_MAX_COMPUTE_UNITS: 4
+	- CL_DEVICE_MAX_CLOCK_FREQUENCY: 2504MHz
+	- CL_DEVICE_ADDRESS_BITS: 32
+	- CL_DEVICE_MAX_MEM_ALLOC_SIZE: 1048576KB
+	- CL_DEVICE_GLOBAL_MEM_SIZE: 2048MB
+	- CL_DEVICE_MAX_PARAMETER_SIZE: 4096
+	- CL_DEVICE_GLOBAL_MEM_CACHELINE_SIZE: 64 Bytes
+	- CL_DEVICE_GLOBAL_MEM_CACHE_SIZE: 32KB
+	- CL_DEVICE_ERROR_CORRECTION_SUPPORT: NO
+	- CL_DEVICE_LOCAL_MEM_TYPE: Global
+	- CL_DEVICE_LOCAL_MEM_SIZE: 32KB
+	- CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE: 64KB
+	- CL_DEVICE_MAX_WORK_ITEM_DIMENSIONS: 3
+	- CL_DEVICE_MAX_WORK_ITEM_SIZES: [1024 ; 1024 ; 1024]
+	- CL_DEVICE_MAX_WORK_GROUP_SIZE: 1024
+	- CL_EXEC_NATIVE_KERNEL: 11911160
+	- CL_DEVICE_IMAGE_SUPPORT: YES
+	- CL_DEVICE_MAX_READ_IMAGE_ARGS: 128
+	- CL_DEVICE_MAX_WRITE_IMAGE_ARGS: 8
+	- CL_DEVICE_IMAGE2D_MAX_WIDTH: 8192
+	- CL_DEVICE_IMAGE2D_MAX_HEIGHT: 8192
+	- CL_DEVICE_IMAGE3D_MAX_WIDTH: 2048
+	- CL_DEVICE_IMAGE3D_MAX_HEIGHT: 2048
+	- CL_DEVICE_IMAGE3D_MAX_DEPTH: 2048
+	- CL_DEVICE_MAX_SAMPLERS: 16
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_CHAR: 16
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_SHORT: 8
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_INT: 4
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_LONG: 2
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_FLOAT: 4
+	- CL_DEVICE_PREFERRED_VECTOR_WIDTH_DOUBLE: 0
+	- CL_DEVICE_EXTENSIONS: 15
+	- Extensions:
+		- cl_khr_fp64
+		- cl_amd_fp64
+		- cl_khr_global_int32_base_atomics
+		- cl_khr_global_int32_extended_atomics
+		- cl_khr_local_int32_base_atomics
+		- cl_khr_local_int32_extended_atomics
+		- cl_khr_byte_addressable_store
+		- cl_khr_gl_sharing
+		- cl_ext_device_fission
+		- cl_amd_device_attribute_query
+		- cl_amd_vec3
+		- cl_amd_printf
+		- cl_amd_media_ops
+		- cl_amd_popcnt
+		- cl_khr_d3d10_sharing
+
+
+===================================[ Misc. ]
+
+
+===================================[ Related Graphics Drivers ]
+- http://www.geeks3d.com/?page_id=752
+- http://downloads.guru3d.com/download.php?id=18
+- http://www.tweakguides.com/ATICAT_1.html
+
+
+===================================[ Related Graphics Cards Reviews ]
